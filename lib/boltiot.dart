@@ -1,5 +1,5 @@
 library boltiot;
-export 'Bolt.dart';
-export 'requesting.dart';
-export 'urls.dart';
-export 'alert.dart';
+export 'src/Bolt.dart';
+export 'src/requesting.dart';
+export 'src/urls.dart';
+export 'src/alert.dart';

@@ -1,7 +1,7 @@
 name: boltiot
 description: boltiot dart package for interacting with bolt cloud and wifi module.
-version: 0.0.1
-author: Hrithikesh V M
+version: 0.0.3
+
 homepage: https://github.com/hrithikesh026/boltiot-dart-package.git
 
 environment:
@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: 0.12.2
-  sprintf: "^4.0.0"
-  twilio_flutter:
+  http: ^0.12.2
+  sprintf: ^4.0.0
+  twilio_flutter: ^0.0.5
 
 dev_dependencies:
   flutter_test:
